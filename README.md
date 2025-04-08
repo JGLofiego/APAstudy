@@ -1,4 +1,4 @@
-#Algorithm Projects and Analyses
+# Algorithm Projects and Analyses
 📊 College course projects on algorithm design and complexity analysis.
 
 This repository contains my implementations and analyses of algorithms, covering:
